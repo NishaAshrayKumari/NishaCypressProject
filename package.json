@@ -3,6 +3,7 @@
     "@cypress/webpack-preprocessor": "^7.0.1",
     "@types/node": "^24.5.2",
     "cypress": "^15.3.0",
+    "dotenv": "^17.2.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
   }
